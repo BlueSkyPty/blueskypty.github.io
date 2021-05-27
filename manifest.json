@@ -1,0 +1,21 @@
+{
+  "name": "Life's Moment",
+  "short_name": "Moment",
+  "description": "Life's Moment 分享生活，记录点滴",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#42b983"
+}
